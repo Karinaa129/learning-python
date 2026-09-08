@@ -1,0 +1,7 @@
+# Блок 1: Команда print()
+print("Hello, World!")
+print(42)
+print("I am", 20, "years old")
+print("Hello", "World", sep="***")
+print("Hello", end=" ")
+print("World")
